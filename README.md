@@ -1,1 +1,1 @@
-# ia_practica3
+Una práctica de la asignatura Inteligecia Artificial de la UIB.
